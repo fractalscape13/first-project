@@ -14,7 +14,7 @@ _This site is an introduction to my background and a list of my current coding p
 * Open HTML and CSS sheets in text editor
 * Use web browser to view project
 
-_No server or database needed.  The project uses bootstrap and has a boostrap CSS stylesheet_
+_No server or database needed.  The project uses bootstrap and has a bootstrap CSS stylesheet_
 
 ## Known Bugs
 

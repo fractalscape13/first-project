@@ -36,6 +36,11 @@ p.header {
   font-family: monospace;
 }
 
+.aboutcontent ol {
+  margin-left: 280px;
+  font-family: monospace;
+}
+
 .quote {
   padding-top: 200px;
   padding-left: 120px;
@@ -55,6 +60,10 @@ p.header {
 #howl {
   border-radius: 0%;
   height: 450px;
+}
+
+#weed {
+  color: darkgreen;
 }
 
 #sidebar {
