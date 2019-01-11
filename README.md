@@ -10,7 +10,7 @@ _This site is an introduction to my background and a list of my current coding p
 
 ## Setup/Installation Requirements
 
-* Clone repository from Github
+* Clone repository from Github https://github.com/fractalscape13/portfolio
 * Open HTML and CSS sheets in text editor
 * Use web browser to view project
 
