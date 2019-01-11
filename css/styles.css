@@ -46,6 +46,17 @@ p.header {
   padding-left: 120px;
 }
 
+.projectcontent ul {
+  padding-top: 20px;
+  margin-left: 250px;
+}
+
+.projectcontent ul li {
+  padding-bottom: 15px;
+  font-family: monospace;
+  list-style-type: circle;
+}
+
 #rainbowz {
   height: 150px;
   margin-right: 30px;
