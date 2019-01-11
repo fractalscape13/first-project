@@ -1,0 +1,39 @@
+body {
+  background-color: paleturquoise;
+}
+
+h1 {
+  font-family: monospace;
+  color: darkblue;
+  text-align: center;
+  font-size: 60px;
+  margin-bottom: 40px;
+}
+
+img {
+  border-radius: 30%;
+  height: 500px;
+  float: right;
+}
+
+#sidebar {
+  height: 100%;
+  width: 220px;
+  position: fixed;
+  z-index: 1;
+  background-color: black;
+  top: 0;
+  left: 0;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  padding-top: 150px;
+}
+
+#sidebar ul li {
+  color: silver;
+  font-size: 15px;
+  font-family: monospace;
+  padding-top: 20px;
+}
