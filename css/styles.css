@@ -1,13 +1,14 @@
 body {
-  background-color: paleturquoise;
+  background-color: darkseagreen;
 }
 
 h1 {
   font-family: monospace;
-  color: darkblue;
+  color: black;
   text-align: center;
   font-size: 60px;
   margin-bottom: 40px;
+  margin-top: 20px;
 }
 
 img {
