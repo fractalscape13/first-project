@@ -26,7 +26,7 @@ _For any questions or comments, contact me at fractalscape13@gmail.com_
 
 ## Technologies Used
 
-_Used basic HTML and CSS styling, as well as bootstrap._
+_Used basic HTML and CSS styling, includes images as well as a bootstrap stylesheet._
 
 ### License
 
